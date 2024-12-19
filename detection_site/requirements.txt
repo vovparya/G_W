@@ -1,0 +1,8 @@
+channels==4.2.0
+Django==5.0.4
+numpy==2.2.0
+opencv_python==4.10.0.84
+opencv_python_headless==4.9.0.80
+Pillow==11.0.0
+torch==2.5.1
+torchvision==0.20.1
